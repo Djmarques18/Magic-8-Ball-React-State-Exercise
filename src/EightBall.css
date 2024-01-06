@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+}
+h1{
+    color:black;
+    text-align: center;
+}
+
+p{
+    color: black;
+    text-align: center;
+}
+
+button {
+    color: white;
+    background-color: black;
+    display: block;
+    margin: auto;
+    width: 250px; /* Auto margin horizontally centers the block element */
+    height: 250px;
+    border-radius: 50%;
+    /* Additional styles for the button */
+  }
